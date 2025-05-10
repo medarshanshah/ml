@@ -1,0 +1,5 @@
+torch >= 2.3.0             # all
+jupyterlab >= 4.0          # all
+matplotlib >= 3.7.1          
+numpy >= 1.26, < 2.1       
+pandas >= 2.2.1            
